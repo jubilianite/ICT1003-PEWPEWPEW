@@ -3,11 +3,17 @@ A project that utilizes the MSP-430 to create a toy gun, using "Laser Tag" as th
 
 #Contributors
 Adam Loh Itt Harp
+<br />
 Woo Kah Howe
+<br />
 Ting Wee Zhen, Gaius
+<br />
 Ng Swee Kiat
+<br />
 Lim Wei Kai
+<br />
 Jubilian Ho Hong Yi
+<br />
 
 # Demo
 Click [here](https://www.youtube.com/watch?v=-f1f9dtqkSM&ab_channel=JubilianHoHongYi) for the demo video. 
