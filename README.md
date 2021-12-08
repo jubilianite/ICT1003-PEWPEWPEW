@@ -9,6 +9,9 @@ Ng Swee Kiat
 Lim Wei Kai
 Jubilian Ho Hong Yi
 
+# Demo
+Click [here](https://www.youtube.com/watch?v=-f1f9dtqkSM&ab_channel=JubilianHoHongYi) for the demo video. 
+
 # License and Copyright Information
 Repository content (Excluding third-party resources, see below) shall be released under the [MIT License](LICENSE).
 <br /><br />
